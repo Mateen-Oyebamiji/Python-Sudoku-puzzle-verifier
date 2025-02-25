@@ -1,9 +1,4 @@
 '''
-COMP 1405 - Fall 2020
-Assignment #3
-
-Name: Bola-oyebamiji Abdul-mateen
-ID:101198311
 Comments:
 '''
 
